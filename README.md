@@ -71,6 +71,9 @@ yarn --version
 
 Anyone is welcome to contribute to **Solana Playground** no matter how big or small.
 
+## Future Features
+Add nodes
+
 ## License
 
 Public libraries(e.g. [solana-client-wasm](https://github.com/solana-playground/solana-playground/tree/master/wasm/solana-client), [solana-extra-wasm](https://github.com/solana-playground/solana-playground/tree/master/wasm/utils/solana-extra)) are licensed under [Apache-2.0](https://github.com/solana-playground/solana-playground/blob/master/LICENSE-APACHE) and the rest are licensed under [GPL-3.0](https://github.com/solana-playground/solana-playground/blob/master/LICENSE-GPL).
