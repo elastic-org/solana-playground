@@ -72,7 +72,7 @@ yarn --version
 Anyone is welcome to contribute to **Solana Playground** no matter how big or small.
 
 ## Future Features
-Add nodes
+Add blockchain nodes
 
 ## License
 
